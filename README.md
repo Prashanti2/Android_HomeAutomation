@@ -1,5 +1,5 @@
 This project is build on a simple bluetooth Chat app that connects to a bluetooth device and sends strings to one another.
-.
+Project  is to enable remote controls to your light fans and other electronic appliances using your Android phone. This app was built to connect to a hardware gateway based on bluetooth HC05 module and this app sends the button command to the HC05 and HC05 connects to a IR remote control system connected to switch board. This is and Easy to build project download this raw project for the Android app and the rest hardware will be shared by me by just sending me an e-mail at: ibm2013014@iiita.ac.in 
 
 Introduction
 ------------
